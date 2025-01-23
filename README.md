@@ -3,9 +3,9 @@
 Welcome to the **AI Teaching Agent Team** project! This Streamlit app simulates a team of AI agents (Professor, Academic Advisor, Research Librarian, and Teaching Assistant) that help you learn any topic by generating a knowledge base, learning roadmap, resources, and practice materials.
 
 ---
-Live Demo
+# **Live Demo
 You can try the app live by clicking the link below:
-👉 AI Teaching Agent Team App
+ 👉 [**AI Teaching Agent Team App**](https://aiteachingagentteam-yakvkt9gfdf6zgj4ugkud2.streamlit.app/)
 
 ---
 ## **Features**
