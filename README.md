@@ -1,14 +1,15 @@
-# **AI Teaching Agent Team**
+## 🧑‍🏫🧑‍🎓AI Teaching Agent Team
 
 Welcome to the **AI Teaching Agent Team** project! This Streamlit app simulates a team of AI agents (Professor, Academic Advisor, Research Librarian, and Teaching Assistant) that help you learn any topic by generating a knowledge base, learning roadmap, resources, and practice materials.
 
 ---
-# **Live Demo
+## 🥇Live Demo
 You can try the app live by clicking the link below:
  👉 [**AI Teaching Agent Team App**](https://aiteachingagentteam-yakvkt9gfdf6zgj4ugkud2.streamlit.app/)
 
 ---
-## **Features**
+## 🔥Features
+
 - **Professor**: Creates a comprehensive knowledge base on the given topic.
 - **Academic Advisor**: Designs a detailed learning roadmap with subtopics and time estimates.
 - **Research Librarian**: Finds quality learning resources, including books, articles, and online courses.
@@ -16,7 +17,8 @@ You can try the app live by clicking the link below:
 
 ---
 
-## **Technologies Used**
+## ⚙️⚙️Technologies Used
+
 - **Streamlit**: For building the web app interface.
 - **Groq API**: For interacting with the `mixtral-8x7b-32768` LLM to generate responses.
 - **Python**: The programming language used for the backend logic.
@@ -92,8 +94,6 @@ pip install streamlit groq
 4. **Set Up Secrets (Environment Variables)**:
    - In your Streamlit Cloud app settings, go to the "Secrets" section.
    - Add your Groq API key as a secret:
-     ```
-     GROQ_API_KEY=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
      ```
 
 5. **Access Your App**:
