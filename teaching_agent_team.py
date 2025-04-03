@@ -6,7 +6,7 @@ groq_api_key = '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'
 client = groq.Client(api_key=groq_api_key)
 
 # Define a function to interact with Groq's LLM
-def ask_groq(prompt, role="You are a helpful assistant.", model="mixtral-8x7b-32768"):
+def ask_groq(prompt, role="You are a helpful assistant.", model="llama-3.3-70b-versatile"):
     try:
         response = client.chat.completions.create(
             model=model,
